@@ -11,3 +11,5 @@ Description:
 now i explain the script i readed the csv file using pandas module that converted data into data frames and i used
 decribe() function to analyze it and finally used fpdf module to use create the report pdf that how i done this task
 Thank you
+output:
+     
